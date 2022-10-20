@@ -15,4 +15,4 @@ tasks:
     name: install-ruby
     language: Bash
     code: |
-      sudo apk add ruby-bundler
+      sudo apk add ruby-bundler ruby-rake
