@@ -6,7 +6,6 @@ tasks:
     code: |
       set -e
       cd source
-      sudo gem install tzinfo-data
       bundle install
       bundle exec rake
     default: true
