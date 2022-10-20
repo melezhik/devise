@@ -16,4 +16,4 @@ tasks:
     name: install-ruby
     language: Bash
     code: |
-      sudo apk add ruby-dev ruby-bundler ruby-rake zlib
+      sudo apk add ruby-dev ruby-bundler ruby-rake zlib zlib-dev
