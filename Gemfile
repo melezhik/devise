@@ -27,6 +27,8 @@ platforms :ruby do
   gem "sqlite3", "~> 1.4"
 end
 
+gem "tzinfo-data"
+
 # platforms :jruby do
 #   gem "activerecord-jdbc-adapter"
 #   gem "activerecord-jdbcsqlite3-adapter"
